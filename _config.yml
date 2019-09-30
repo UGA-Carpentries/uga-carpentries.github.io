@@ -39,7 +39,7 @@ email: jason.wallace@uga.edu
 avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uga-carpentries.github.io/" # the base hostname & protocol for your site
 
 # Social settings
