@@ -1,7 +1,7 @@
 ---
 title: Links
-icon: fa-check
-order: 
+icon: fa-link
+order: 4
 ---
 Affiliate links:
 * [The Carpentries](https://carpentries.org/)
