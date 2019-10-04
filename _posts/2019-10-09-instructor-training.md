@@ -1,5 +1,5 @@
 ---
-title: Live Instructor Training - Oct 9 & 10 2019
+title: Live Instructor Training
 author: Jason
 layout: post
 icon: fa-chalkboard-teacher
