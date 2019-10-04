@@ -6,6 +6,8 @@ This is the web page for the Carpentries@UGA, to coordinate all Carpentries-rela
 
 If you want to be involved in planning/running Carpentries workshops at UGA, please join the Carpentries@UGA conversation on Slack at https://join.slack.com/t/carpentriesuga/signup. (Note: If you use a @uga.edu email address, you should be able to join automatically.)
 
+The compiled version of this page is at [https://uga-carpentries.github.io](https://uga-carpentries.github.io)
+
 # Major site pages
 HTML and markdown pages in the root directory become the major sections on the webpage. Index.html (or index.md) is the main landing page.
 
