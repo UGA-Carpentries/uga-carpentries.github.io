@@ -13,6 +13,7 @@ Currently, most of the Carpentries work at UGA is carried out by the Institute o
 
 | ![Jason Wallace](assets/images/JasonWallace.jpg "Jason Wallace")<br>Jason Wallace <br>(Crop & Soil Science) | ![Shannon Quinn](assets/images/ShannonQuinn.jpg "Shannon Quinn")<br>Shannon Quinn <br>(Computer Science) | ![Holly Bik](assets/images/HollyBik.jpg "Holly Bik")<br>Holly Bik <br>(Marine Science/IOB) | ![Casey Bergman](assets/images/CaseyBergman.jpg "Casey Bergman")<br>Casey Bergman <br>(Genetics/IOB) |
 |---|---|---|---|
+| | | | |
 
 
 ### Badged Instructors
@@ -33,3 +34,4 @@ The nature of a University is that people move on. Here are some of our past com
 
 |Name|Department|Next Adventure|
 |---|---|---|
+| | | |
