@@ -24,6 +24,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |---|---|---|
 |Bergman, Casey|Genetics, IOB|Faculty|
 |Bik, Holly|Marine Sciences, IOB|Faculty|
+|Montenegro, Tito|Bioinformatics|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
 |Wallace, Jason|Crop & Soil Science|Faculty|
 
