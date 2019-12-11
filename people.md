@@ -25,6 +25,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Bergman, Casey|Genetics, Bioinformatics|Faculty|
 |Bik, Holly|Marine Sciences, Bioinformatics|Faculty|
 |Francis, Michael|Bioinformatics|Graduate Student|
+|Kovar, Lynsey|Bioinformatics|Graduate Student|
 |Montenegro, Tito|Bioinformatics|Graduate Student|
 |Soleymani, Saber|Computer Science|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
