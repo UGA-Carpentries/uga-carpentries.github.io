@@ -8,5 +8,5 @@ This workshop will teach introductory skills for the R programming language foll
 
 Full information:
 * Topics: R, RStudio
-* Dates: 7 February 2020, 9AM-5PM
+* Dates: 7 February 2020, 9AM-4:45PM
 * Location: 350 MLC
