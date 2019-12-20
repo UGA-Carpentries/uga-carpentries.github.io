@@ -27,6 +27,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Francis, Michael|Bioinformatics|Graduate Student|
 |Gimode, Davis|Plant Breeding, Genetics, & Genomics|Postdoc|
 |Kovar, Lynsey|Bioinformatics|Graduate Student|
+|Miller, Mark|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |Montenegro, Tito|Bioinformatics|Graduate Student|
 |Soleymani, Saber|Computer Science|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
