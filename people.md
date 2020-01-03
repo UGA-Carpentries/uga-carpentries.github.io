@@ -24,6 +24,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |---|---|---|
 |Bergman, Casey|Genetics, Bioinformatics|Faculty|
 |Bik, Holly|Marine Sciences, Bioinformatics|Faculty|
+|Corut, Kivanc|Bioinformatics|Graduate Student|
 |Francis, Michael|Bioinformatics|Graduate Student|
 |Gimode, Davis|Plant Breeding, Genetics, & Genomics|Postdoc|
 |Kovar, Lynsey|Bioinformatics|Graduate Student|
@@ -32,6 +33,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Soleymani, Saber|Computer Science|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
 |Wallace, Jason|Crop & Soil Science|Faculty|
+
 
 ### Alumni
 The nature of a University is that people move on. Here are some of our past community members and where they have gone since
