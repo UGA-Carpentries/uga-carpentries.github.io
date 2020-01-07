@@ -32,6 +32,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Soleymani, Saber|Computer Science|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
 |Wallace, Jason|Crop & Soil Science|Faculty|
+|Wright, Hallie|Plant Breeding, Genetics, & Genomics|Graduate Student|
 
 ### Alumni
 The nature of a University is that people move on. Here are some of our past community members and where they have gone since
