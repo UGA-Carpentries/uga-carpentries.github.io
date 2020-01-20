@@ -30,6 +30,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Miller, Mark|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |Montenegro, Tito|Bioinformatics|Graduate Student|
 |Soleymani, Saber|Computer Science|Graduate Student|
+|Taitano, Nathan|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |Vaughn, Justin|USDA|Research Scientist|
 |Wallace, Jason|Crop & Soil Science|Faculty|
 |Wright, Hallie|Plant Breeding, Genetics, & Genomics|Graduate Student|
