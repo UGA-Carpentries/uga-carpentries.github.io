@@ -30,6 +30,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |Kovar, Lynsey|Bioinformatics|Graduate Student|
 |Miller, Mark|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |Montenegro, Tito|Bioinformatics|Graduate Student|
+|Quinn, Shannon|Computer Science|Faculty|
 |Soleymani, Saber|Computer Science|Graduate Student|
 |Taitano, Nathan|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |Tran, Dung ("Ivy")|Plant Breeding, Genetics, & Genomics|Graduate Student|
