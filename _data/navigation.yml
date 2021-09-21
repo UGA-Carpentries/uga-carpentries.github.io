@@ -1,0 +1,15 @@
+- name: Announcements
+  link: blog
+- name: People
+  link: people
+- name: Events
+  link: events
+- name: Videos
+  link: videos
+
+
+#- name: Links
+#  link: links  
+  #dropdown: 
+   # - name: Page 2
+    #  link: page-2

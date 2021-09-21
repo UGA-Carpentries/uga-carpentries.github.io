@@ -1,9 +1,27 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-title: Home
-icon: fa-university
-order: 1
+title: Carpentries@UGA
+subtitle: Carpentries work at the University of Georgia
+layout: page
+show_sidebar: true
+hero_image: "/assets/images/banner.jpg"
 ---
+
+# Welcome to Carpentries@UGA
+
+This is the hub page for [Software and Data Carpentry](https://carpentries.org/) work at the [University of Georgia](https://www.uga.edu).
+
+<!-- TODO: Make callouts on the main page -->
+
+# Background
+The Carpentries is a non-profit organization devoted to teaching foundational skills in coding and data science to researchers across the globe. At UGA, the Department of Computer Science and the Institute of Bioinformatics are working with students and faculty across campus to host training throughout the year. See the Events page for past and future workshops, and the People page for who is participating on campus.
+
+Funding for this work comes from the National Science Foundation (Grant #[1845915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845915)) and the UGA Institute of Bioinformatics.
+
+# Get Involved
+Want to get involved? You can:
+
+* [Join our listserv](https://listserv.uga.edu/cgi-bin/wa?SUBED1=CARPENTRIES-L&A=1) (listserv name is "Carpentries-L")
+* [Attend a workshop](events)
+* [Request a workshop](https://github.com/UGA-Carpentries/uga-carpentries.github.io/issues)
+* [Apply for Instructor training]("https://carpentries.org/become-instructor/)
+* Volunteer to help at one of our workshops <!-- TODO: Add some sort of link here? -->

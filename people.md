@@ -1,8 +1,9 @@
 ---
-title: People
-layout: "page"
-icon: fa-users
-order: 3
+title: Carpentries@UGA
+subtitle: The people that make it happen
+layout: page
+show_sidebar: false
+hero_image: "/assets/images/banner.jpg"
 ---
 
 A lot of different people help make our Carpentries community at UGA.
@@ -11,7 +12,7 @@ A lot of different people help make our Carpentries community at UGA.
 Currently, most of the Carpentries work at UGA is carried out by the Institute of Bioinformatics Outreach Committee:
 
 
-| <img src="assets/images/JasonWallace.jpg" alt="Jason Wallace" width="200"><br>Jason Wallace <br>(Crop & Soil Science) | <img src="assets/images/ShannonQuinn.jpg" alt="Shannon Quinn" width="200"><br>Shannon Quinn <br>(Computer Science) | <img src="assets/images/HollyBik.jpg" alt="Holly Bik" width="200"><br>Holly Bik <br>(Marine Science/IOB) | <img src="assets/images/CaseyBergman.jpg" alt="Casey Bergman" width="200"><br>Casey Bergman <br>(Genetics/IOB) |
+| <img src="assets/images/people-jason-wallace.jpg" alt="Jason Wallace" width="200"><br>Jason Wallace <br>(Crop & Soil Science) | <img src="assets/images/people-shannon-quinn.jpg" alt="Shannon Quinn" width="200"><br>Shannon Quinn <br>(Computer Science) | <img src="assets/images/people-holly-bik.jpg" alt="Holly Bik" width="200"><br>Holly Bik <br>(Marine Science/IOB) | <img src="assets/images/people-casey-bergman.jpg" alt="Casey Bergman" width="200"><br>Casey Bergman <br>(Genetics/IOB) |
 |---|---|---|---|
 | | | | |
 

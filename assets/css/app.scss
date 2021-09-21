@@ -1,0 +1,15 @@
+---
+---
+
+// Primary color for theme; needs to be set before importing
+$primary: #BA0C2F;  
+
+// Import all theme defaults
+@import "main";
+
+// Change header colors.
+.content h1 {
+    color: #BA0C2F;
+}
+
+
