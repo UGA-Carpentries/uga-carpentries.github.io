@@ -26,14 +26,14 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Bergman, Casey](https://www.genetics.uga.edu/directory/people/casey-bergman)|Genetics, Bioinformatics|Faculty|
 |[Bik, Holly](https://www.marsci.uga.edu/directory/people/holly-bik)|Marine Sciences, Bioinformatics|Faculty|
 |[Corut, Kivanc](https://www.linkedin.com/in/kivanc-corut/)|Bioinformatics|Graduate Student|
-|Francis, Michael|Bioinformatics|Graduate Student|
-|Miller, Mark|Plant Breeding, Genetics, & Genomics|Graduate Student|
-|Montenegro, Tito|Bioinformatics|Graduate Student|
+|[Francis, Michael](https://www.linkedin.com/in/michaelofrancis/)|Bioinformatics|Graduate Student|
+|[Miller, Mark](https://www.linkedin.com/in/mark-miller-415b0ab7/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
+|[Montenegro, Tito](https://www.linkedin.com/in/tito-montenegro/)|Marine Science|Postdoc|
 |[Quinn, Shannon](https://www.cs.uga.edu/directory/people/shannon-quinn)|Computer Science|Faculty|
 |[Soleymani, Saber](https://www.linkedin.com/in/sabersol/)|Computer Science|Graduate Student|
 |[Tran, Dung ("Ivy")](https://www.linkedin.com/in/dungtran12/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Wallace, Jason](https://cropsoil.uga.edu/people/faculty/jason-wallace.html)|Crop & Soil Science|Faculty|
-|Wright, Hallie|Plant Breeding, Genetics, & Genomics|Graduate Student|
+|[Wright, Hallie](https://www.linkedin.com/in/hallie-wright-102533a4/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 
 
 ### Alumni
