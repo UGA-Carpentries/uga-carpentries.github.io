@@ -20,7 +20,7 @@ Funding for this work comes from the National Science Foundation (Grant #[184591
 # Get Involved
 Want to get involved? You can:
 
-* [Join our listserv](https://listserv.uga.edu/cgi-bin/wa?SUBED1=CARPENTRIES-L&A=1) (listserv name is "Carpentries-L")
+* [Join our listserv](https://listserv.uga.edu/scripts/wa-UGA.exe?A0=CARPENTRIES-L) (listserv name is "Carpentries-L"; see [this page](https://confluence.eits.uga.edu/display/HK/How+to+subscribe+to+a+Listserv) for instructions).  
 * [Attend a workshop](events)
 * [Request a workshop](https://github.com/UGA-Carpentries/uga-carpentries.github.io/issues)
 * [Apply for Instructor training]("https://carpentries.org/become-instructor/)
