@@ -7,8 +7,14 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
-
-Check back soon for upcoming workshop opportunities
+## Workshop - Introduction to R
+* **Dates**: October 29, 2021
+* **Instructors**: Michael Francis, Kyle Johnson, Ivy Tran
+* **Module**: [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder)
+* **Format**: In-person workshop (full day)
+* **Website**: [https://uga-carpentries.github.io/2021-10-29-uga/](https://uga-carpentries.github.io/2021-10-29-uga/)
+* **Registration**: CLOSED
+<!-- Check back soon for upcoming workshop opportunities -->
  
 # Past events
 
