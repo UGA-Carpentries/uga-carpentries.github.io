@@ -7,12 +7,12 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
-## Workshop - Intro to The Unix Shell & Version Control with Git
+## Workshop - Intro to The Unix Shell & Version Control with Git - Deadline Nov 30, 2021
 * **Dates**: December 06, 2021
 * **Instructors**: Kyle Johnsen, Shannon Quinn
 * **Module**: [The Unix Shell - first three episodes](https://swcarpentry.github.io/shell-novice/)
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
-* **Format**: Online (half day)
+* **Format**: Online (half day), 30 participants max
 * **Website**: [https://uga-carpentries.github.io/2021-12-06-UGA-online/](https://uga-carpentries.github.io/2021-12-06-UGA-online/)
 * **Registration**: [Open](https://forms.gle/ZufaDvMeZEr118Q59)
 <!-- Check back soon for upcoming workshop opportunities -->
