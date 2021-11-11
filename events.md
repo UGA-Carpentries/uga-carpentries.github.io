@@ -7,6 +7,19 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
+## Workshop - Intro to The Unix Shell & Version Control with Git
+* **Dates**: December 06, 2021
+* **Instructors**: Kyle Johnsen, Shannon Quinn
+* **Module**: [The Unix Shell - first three episodes](https://swcarpentry.github.io/shell-novice/)
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Format**: Online (half day)
+* **Website**: [https://uga-carpentries.github.io/2021-12-06-UGA-online/](https://uga-carpentries.github.io/2021-12-06-UGA-online/)
+* **Registration**: [Open](https://forms.gle/ZufaDvMeZEr118Q59)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
+
+# Upcoming events
 ## Workshop - Introduction to R
 * **Dates**: October 29, 2021
 * **Instructors**: Michael Francis, Kyle Johnson, Ivy Tran
@@ -16,8 +29,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
  
-# Past events
-
 ## Online workshop - Python
 * **Dates**: January 7, 2021
 * **Instructor**: Jason Wallace
