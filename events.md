@@ -15,7 +15,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * **Format**: Online (half day), 30 participants max
 * **Website**: [https://uga-carpentries.github.io/2021-12-06-UGA-online/](https://uga-carpentries.github.io/2021-12-06-UGA-online/)
-* **Registration**: [Open](https://forms.gle/ZufaDvMeZEr118Q59)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 # Past events
