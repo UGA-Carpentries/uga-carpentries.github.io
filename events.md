@@ -7,7 +7,7 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
-## Workshop - Programming with Python
+## Workshop - Programming with Python test
 * **Dates**: March 10, 2022
 * **Deadline**: March 1, 2022
 * **Instructors**: Natalie Cohen
