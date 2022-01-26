@@ -7,6 +7,17 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
+## Workshop - Programming with Python
+* **Dates**: March 10, 2022
+* **Deadline**: March 1, 2022
+* **Instructors**: Natalie Cohen
+* **Module**: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* **Format**: Online (full day), 30 participants max
+* **Website**: [https://uga-carpentries.github.io/2022-03-10-UGA-online/](https://uga-carpentries.github.io/2022-03-10-UGA-online/)
+* **Registration**: OPEN
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
 ## Workshop - Intro to The Unix Shell & Version Control with Git
 * **Dates**: December 06, 2021
 * **Deadline**: November 30, 2021
@@ -18,7 +29,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
 ## Workshop - Introduction to R
 * **Dates**: October 29, 2021
 * **Instructors**: Michael Francis, Kyle Johnson, Ivy Tran
