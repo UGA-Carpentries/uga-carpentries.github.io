@@ -17,7 +17,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: OPEN
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
+<!--# Past events
 ## Workshop - Intro to The Unix Shell & Version Control with Git
 * **Dates**: December 06, 2021
 * **Deadline**: November 30, 2021
@@ -26,7 +26,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * **Format**: Online (half day), 30 participants max
 * **Website**: [https://uga-carpentries.github.io/2021-12-06-UGA-online/](https://uga-carpentries.github.io/2021-12-06-UGA-online/)
-* **Registration**: CLOSED
+* **Registration**: CLOSED-->
 <!-- Check back soon for upcoming workshop opportunities -->
 
 ## Workshop - Introduction to R
