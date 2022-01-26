@@ -34,7 +34,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Tran, Dung ("Ivy")](https://www.linkedin.com/in/dungtran12/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Wallace, Jason](https://cropsoil.uga.edu/people/faculty/jason-wallace.html)|Crop & Soil Science|Faculty|
 |[Wright, Hallie](https://www.linkedin.com/in/hallie-wright-102533a4/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
-|[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|
+|[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
 
 ### Alumni
 The nature of a University is that people move on. Here are some of our past community members and where they have gone since
