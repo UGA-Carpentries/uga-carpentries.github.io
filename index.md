@@ -12,7 +12,7 @@ This is the hub page for [Software and Data Carpentry](https://carpentries.org/)
 
 <!-- TODO: Make callouts on the main page -->
 
-# Background:
+# Background
 The Carpentries is a non-profit organization devoted to teaching foundational skills in coding and data science to researchers across the globe. At UGA, the Department of Computer Science and the Institute of Bioinformatics are working with students and faculty across campus to host training throughout the year. See the Events page for past and future workshops, and the People page for who is participating on campus.
 
 Funding for this work comes from the National Science Foundation (Grant #[1845915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845915)) and the UGA Institute of Bioinformatics.
