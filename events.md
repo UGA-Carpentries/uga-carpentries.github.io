@@ -7,7 +7,7 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
-## Workshop - Programming with Python test
+## Workshop - Programming with Python
 * **Dates**: March 10, 2022
 * **Deadline**: March 1, 2022
 * **Instructors**: Natalie Cohen
@@ -31,7 +31,7 @@ hero_image: "/assets/images/banner.jpg"
 
 ## Workshop - Introduction to R
 * **Dates**: October 29, 2021
-* **Instructors**: Michael Francis, Kyle Johnson, Ivy Tran
+* **Instructors**: Jason Wallace, Kyle Johnson, Ivy Tran
 * **Module**: [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder)
 * **Format**: In-person workshop (full day)
 * **Website**: [https://uga-carpentries.github.io/2021-10-29-uga/](https://uga-carpentries.github.io/2021-10-29-uga/)
