@@ -9,12 +9,12 @@ hero_image: "/assets/images/banner.jpg"
 # Upcoming events
 ## Workshop - Programming with Python
 * **Dates**: March 10, 2022
-* **Deadline**: March 1, 2022
+* **Deadline**: February 11, 2022
 * **Instructors**: Natalie Cohen
 * **Module**: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * **Format**: Online (full day), 30 participants max
 * **Website**: [https://uga-carpentries.github.io/2022-03-10-UGA-online/](https://uga-carpentries.github.io/2022-03-10-UGA-online/)
-* **Registration**: OPEN
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 # Past events
