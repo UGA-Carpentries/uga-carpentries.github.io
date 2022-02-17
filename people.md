@@ -35,6 +35,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Wright, Hallie](https://www.linkedin.com/in/hallie-wright-102533a4/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
 |[Pereira, Tiago](https://www.marsci.uga.edu/directory/people/tiago-jose-pereira)|Marine Scienes, Bioinformatics|Postdoc|
+|[Schultz, Corey](https://www.linkedin.com/in/corey-schultz/)|Bioinformatics|PhD Student|
 
 ### Alumni
 The nature of a University is that people move on. Here are some of our past community members and where they have gone since
