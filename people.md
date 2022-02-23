@@ -46,7 +46,7 @@ The nature of a University is that people move on. Here are some of our past com
 |---|---|---|
 |[Kovar, Lynsey](https://www.linkedin.com/in/lkovar/)|Bioinformatics|[Inari](https://inari.com/)|
 |[Gimode, Davis](https://expertfinder.cgiar.org/display/ad-Gimode-Davis-ICRISAT)|Plant Breeding, Genetics, & Genomics|[ICRISAT - Kenya](https://www.icrisat.org/tag/kenya/)|
+|[Soleymani, Saber](https://www.linkedin.com/in/sabersol/)|Computer Science|[GSU-Robinson College of Business](https://robinson.gsu.edu)|
 |[Taitano, Nathan](https://www.linkedin.com/in/nathan-taitano-3720593a/)|Plant Breeding, Genetics, & Genomics|[BASF](https://www.basf.com/us/en.html)|
 |[Vaughn, Justin](https://scholar.google.com/citations?user=Udhv0SkAAAAJ&hl=en&oi=ao)|USDA-ARS|[USDA-ARS Genomics and Bioinformatics Research Unit](https://www.ars.usda.gov/southeast-area/stoneville-ms/genomics-and-bioinformatics-research/)|
-|[Soleymani, Saber](https://www.linkedin.com/in/sabersol/)|Computer Science|[GSU-Robinson College of Business](https://robinson.gsu.edu)|
 
