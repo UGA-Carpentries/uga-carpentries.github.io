@@ -27,15 +27,17 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Bik, Holly](https://www.marsci.uga.edu/directory/people/holly-bik)|Marine Sciences, Bioinformatics|Faculty|
 |[Corut, Kivanc](https://www.linkedin.com/in/kivanc-corut/)|Bioinformatics|Graduate Student|
 |[Francis, Michael](https://www.linkedin.com/in/michaelofrancis/)|Bioinformatics|Graduate Student|
+|[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
 |[Miller, Mark](https://www.linkedin.com/in/mark-miller-415b0ab7/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Montenegro, Tito](https://www.linkedin.com/in/tito-montenegro/)|Marine Science|Postdoc|
+|[Pereira, Tiago](https://www.marsci.uga.edu/directory/people/tiago-jose-pereira)|Marine Scienes, Bioinformatics|Postdoc|
 |[Quinn, Shannon](https://www.cs.uga.edu/directory/people/shannon-quinn)|Computer Science|Faculty|
+|[Schultz, Corey](https://www.linkedin.com/in/corey-schultz/)|Bioinformatics|PhD Student|
 |[Tran, Dung ("Ivy")](https://www.linkedin.com/in/dungtran12/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
+|[Voghoei, Sahar ](https://cviog.uga.edu/about-us/faculty-staff/sahar-voghoei.html)|Carl Vinson Institute of Government|Staff|
 |[Wallace, Jason](https://cropsoil.uga.edu/people/faculty/jason-wallace.html)|Crop & Soil Science|Faculty|
 |[Wright, Hallie](https://www.linkedin.com/in/hallie-wright-102533a4/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
-|[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
-|[Pereira, Tiago](https://www.marsci.uga.edu/directory/people/tiago-jose-pereira)|Marine Scienes, Bioinformatics|Postdoc|
-|[Schultz, Corey](https://www.linkedin.com/in/corey-schultz/)|Bioinformatics|PhD Student|
+
 
 ### Alumni
 The nature of a University is that people move on. Here are some of our past community members and where they have gone since
