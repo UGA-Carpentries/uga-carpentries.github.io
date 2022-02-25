@@ -32,6 +32,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Montenegro, Tito](https://www.linkedin.com/in/tito-montenegro/)|Marine Science|Postdoc|
 |[Pereira, Tiago](https://www.marsci.uga.edu/directory/people/tiago-jose-pereira)|Marine Scienes, Bioinformatics|Postdoc|
 |[Quinn, Shannon](https://www.cs.uga.edu/directory/people/shannon-quinn)|Computer Science|Faculty|
+|[Quirk, Lucy](https://www.marsci.uga.edu/directory/people/lucy-quirk)|Marine Sciences|Graduate Student|
 |[Schultz, Corey](https://www.linkedin.com/in/corey-schultz/)|Bioinformatics|PhD Student|
 |[Tran, Dung ("Ivy")](https://www.linkedin.com/in/dungtran12/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Voghoei, Sahar ](https://cviog.uga.edu/about-us/faculty-staff/sahar-voghoei.html)|Carl Vinson Institute of Government|Staff|
