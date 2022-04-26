@@ -7,6 +7,17 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
+## Workshop - Genomic Data Analysis
+* **Dates**: May 18-19, 2022
+* **Deadline**: May 13, 2022
+* **Instructors**: Jason Wallace
+* **Module**: [Genomics Curriculum](https://datacarpentry.org/lessons/#genomics-workshop)
+* **Format**: in person, 35 participants max
+* **Website**: [https://uga-carpentries.github.io/2022-05-18-UGA/](https://uga-carpentries.github.io/2022-05-18-UGA/)
+* **Registration**: [OPENED] (https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
 ## Workshop - Programming with Python
 * **Dates**: March 10, 2022
 * **Deadline**: February 11, 2022
@@ -17,7 +28,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
 ## Workshop - Intro to The Unix Shell & Version Control with Git
 * **Dates**: December 06, 2021
 * **Deadline**: November 30, 2021
