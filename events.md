@@ -14,7 +14,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Genomics Curriculum](https://datacarpentry.org/lessons/#genomics-workshop)
 * **Format**: in person, 35 participants max
 * **Website**: [https://uga-carpentries.github.io/2022-05-18-UGA/](https://uga-carpentries.github.io/2022-05-18-UGA/)
-* **Registration**: [OPENED](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 # Past events
