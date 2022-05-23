@@ -15,7 +15,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * **Format**: in person, 35 participants max
-* **Website**: [https://uga-carpentries.github.io/2022-06-16-UGA/](https://uga-carpentries.github.io/2022-06-16-UGA/)
+* **Website**: [https://uga-carpentries.github.io/2022-07-20-UGA/](https://uga-carpentries.github.io/2022-07-20-UGA/)
 * **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
 <!-- Check back soon for upcoming workshop opportunities -->
 
