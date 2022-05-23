@@ -7,6 +7,31 @@ hero_image: "/assets/images/banner.jpg"
 ---
 
 # Upcoming events
+## Workshop - 2-Day Core Software Carpentry Workshops
+* **Dates**: July 20-21, 2022
+* **Deadline**: July 11, 2022
+* **Instructors**: Holly Bik
+* **Module**: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* **Format**: in person, 35 participants max
+* **Website**: [https://uga-carpentries.github.io/2022-06-16-UGA/](https://uga-carpentries.github.io/2022-06-16-UGA/)
+* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+## Workshop - 2-Day Core Software Carpentry Workshops
+* **Dates**: June 16-17, 2022
+* **Deadline**: June 06, 2022
+* **Instructors**: Holly Bik
+* **Module**: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* **Format**: in person, 35 participants max
+* **Website**: [https://uga-carpentries.github.io/2022-06-16-UGA/](https://uga-carpentries.github.io/2022-06-16-UGA/)
+* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
 ## Workshop - Genomic Data Analysis
 * **Dates**: May 18-19, 2022
 * **Deadline**: May 13, 2022
@@ -17,7 +42,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
 ## Workshop - Programming with Python
 * **Dates**: March 10, 2022
 * **Deadline**: February 11, 2022
