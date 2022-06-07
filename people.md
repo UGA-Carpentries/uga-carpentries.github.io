@@ -26,6 +26,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Bergman, Casey](https://www.genetics.uga.edu/directory/people/casey-bergman)|Genetics, Bioinformatics|Faculty|
 |[Bik, Holly](https://www.marsci.uga.edu/directory/people/holly-bik)|Marine Sciences, Bioinformatics|Faculty|
 |[Corut, Kivanc](https://www.linkedin.com/in/kivanc-corut/)|Bioinformatics|Graduate Student|
+|[Cohen, Natalie](https://www.marsci.uga.edu/directory/people/natalie-cohen)|Marine Sciences|Faculty|
 |[De Santiago, Alejandro](https://www.linkedin.com/in/alejandrodesantiago/)|Bioinformatics|Graduate Student|
 |[Francis, Michael](https://www.linkedin.com/in/michaelofrancis/)|Bioinformatics|Graduate Student|
 |[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
