@@ -5,6 +5,7 @@ layout: page
 show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
+# Upcoming events
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: June 16-17, 2022
 * **Deadline**: June 13, 2022
@@ -17,7 +18,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Upcoming events
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: July 20-21, 2022
 * **Deadline**: July 15, 2022
