@@ -27,6 +27,7 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[Bik, Holly](https://www.marsci.uga.edu/directory/people/holly-bik)|Marine Sciences, Bioinformatics|Faculty|
 |[Corut, Kivanc](https://www.linkedin.com/in/kivanc-corut/)|Bioinformatics|Graduate Student|
 |[Cohen, Natalie](https://www.marsci.uga.edu/directory/people/natalie-cohen)|Marine Sciences|Faculty|
+|[Cook, Claire](https://www.marsci.uga.edu/directory/people/claire-zwiers-cook)|Marine Sciences|Graduate Student|
 |[De Santiago, Alejandro](https://www.linkedin.com/in/alejandrodesantiago/)|Bioinformatics|Graduate Student|
 |[Francis, Michael](https://www.linkedin.com/in/michaelofrancis/)|Bioinformatics|Graduate Student|
 |[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
