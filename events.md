@@ -6,6 +6,27 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+## Workshop - 2-Day Programming with Python
+* **Dates**: March 6-7 2023
+* **Deadline**: February 20 2023
+* **Instructors**: Natalie Cohen
+* **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* **Format**: virtual, 50 people max
+* **Website**: [https://uga-carpentries.github.io/2023-03-06-UGA-online/](https://uga-carpentries.github.io/2023-03-06-UGA-online/)
+* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10135)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+## Workshop - 2-Day Data Analysis and Visualization in R for Ecologists
+* **Dates**: May 19-20 2023
+* **Deadline**: May 5 2023
+* **Instructors**: Claire Cook, Lucy Quirk
+* **Module**: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
+* **Format**: in-person at Skidaway Institute in Savannah, 20 people max
+* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/](https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/)
+* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10136)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: June 16-17, 2022
 * **Deadline**: June 13, 2022
@@ -15,7 +36,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * **Format**: in person, 35 participants max
 * **Website**: [https://uga-carpentries.github.io/2022-06-16-UGA/](https://uga-carpentries.github.io/2022-06-16-UGA/)
-* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 ## Workshop - 2-Day Core Software Carpentry Workshops
@@ -27,10 +48,9 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * **Format**: in person, 35 participants max
 * **Website**: [https://uga-carpentries.github.io/2022-07-20-UGA/](https://uga-carpentries.github.io/2022-07-20-UGA/)
-* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/store_main.jsp?STOREID=380&clearPreview=true)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
 ## Workshop - Genomic Data Analysis (Canceled)
 * **Dates**: May 18-19, 2022
 * **Deadline**: May 13, 2022
