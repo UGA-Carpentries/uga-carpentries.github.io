@@ -6,6 +6,17 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+## Workshop - 2-Day Bootcamp: R, Unix Shell & Git
+* **Dates**: March 4-5 2024
+* **Deadline**: January 8 2024
+* **Instructors**: Natalie Cohen
+* **Module**: [Carpentries Bootcamp: R, Unix Shell, & Git](https://swcarpentry.github.io/shell-novice/)
+* **Format**: In-person, UGA students only
+* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/]([https://uga-carpentries.github.io/2024-03-04-UGA/)
+* **Registration**: OPEN on ATHENA: BINF 7960 (1 credit), Software Carpentries for Scientific Programming (CRN: 68278) 
+BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68034) 
+<!-- Check back soon for upcoming workshop opportunities -->
+
 ## Workshop - 2-Day Programming with Python
 * **Dates**: March 6-7 2023
 * **Deadline**: February 20 2023
@@ -13,7 +24,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * **Format**: virtual, 50 people max
 * **Website**: [https://uga-carpentries.github.io/2023-03-06-UGA-online/](https://uga-carpentries.github.io/2023-03-06-UGA-online/)
-* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10135)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 ## Workshop - 2-Day Data Analysis and Visualization in R for Ecologists
@@ -23,7 +34,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
 * **Format**: in-person at Skidaway Institute in Savannah, 20 people max
 * **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/](https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/)
-* **Registration**: [OPEN](https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10136)
+* **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
 # Past events
