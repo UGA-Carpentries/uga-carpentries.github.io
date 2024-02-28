@@ -6,6 +6,29 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+## Workshop - Introduction to Git
+* **Dates**: March 26, 2024
+* **Deadline**: March 20, 2024
+* **Instructors**: Alejandro De Santiago
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Format**: Online
+* **Website**: [https://uga-carpentries.github.io/2024-03-26-UGA-online]([https://uga-carpentries.github.io/2024-03-26-UGA-online)
+* **Registration**: OPEN 
+<!-- Check back soon for upcoming workshop opportunities -->
+
+## Workshop - 2-Day Bootcamp: Python, Unix Shell & Git
+* **Dates**: March 6-7, 2024
+* **Deadline**: January 8 2024
+* **Instructors**: Yun Tao, Hunter Powell, Alejandro De Santiago
+* **Module**: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* * **Format**: In-person, UGA students only
+* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/]([https://uga-carpentries.github.io/2024-03-04-UGA/)
+* **Registration**: OPEN on ATHENA: BINF 7960 (1 credit), Software Carpentries for Scientific Programming (CRN: 68000) 
+BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68018) 
+<!-- Check back soon for upcoming workshop opportunities -->
+
 ## Workshop - 2-Day Bootcamp: R, Unix Shell & Git
 * **Dates**: March 4-5 2024
 * **Deadline**: January 8 2024
@@ -17,6 +40,8 @@ hero_image: "/assets/images/banner.jpg"
 BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68034) 
 <!-- Check back soon for upcoming workshop opportunities -->
 
+
+# Past events
 ## Workshop - 2-Day Programming with Python
 * **Dates**: March 6-7 2023
 * **Deadline**: February 20 2023
@@ -37,7 +62,6 @@ BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (
 * **Registration**: CLOSED
 <!-- Check back soon for upcoming workshop opportunities -->
 
-# Past events
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: June 16-17, 2022
 * **Deadline**: June 13, 2022
