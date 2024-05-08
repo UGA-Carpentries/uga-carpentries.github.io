@@ -6,13 +6,26 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+## Workshop - 2-Day Core Software Carpentry Workshop
+* **Dates**: May 22-23, 2024
+* **Deadline**: May 18, 2024
+* **Instructors**: Yun Tao, Hunter Powell, and Alejandro De Santiago
+* **Module**: [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+* **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+* **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* **Format**: In-person
+* **Website**: [https://uga-carpentries.github.io/2024-05-22-UGA/](https://uga-carpentries.github.io/2024-05-22-UGA/)
+* **Registration**: OPEN 
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
 ## Workshop - Introduction to Git
 * **Dates**: March 26, 2024
 * **Deadline**: March 20, 2024
 * **Instructors**: Alejandro De Santiago
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * **Format**: Online
-* **Website**: [https://uga-carpentries.github.io/2024-03-26-UGA-online]([https://uga-carpentries.github.io/2024-03-26-UGA-online)
+* **Website**: [https://uga-carpentries.github.io/2024-03-26-UGA-online](https://uga-carpentries.github.io/2024-03-26-UGA-online)
 * **Registration**: OPEN 
 <!-- Check back soon for upcoming workshop opportunities -->
 
@@ -24,7 +37,7 @@ hero_image: "/assets/images/banner.jpg"
 * **Module**: [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * **Module**:[Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * * **Format**: In-person, UGA students only
-* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/]([https://uga-carpentries.github.io/2024-03-04-UGA/)
+* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/](https://uga-carpentries.github.io/2024-03-04-UGA/)
 * **Registration**: OPEN on ATHENA: BINF 7960 (1 credit), Software Carpentries for Scientific Programming (CRN: 68000) 
 BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68018) 
 <!-- Check back soon for upcoming workshop opportunities -->
@@ -35,13 +48,11 @@ BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (
 * **Instructors**: Natalie Cohen
 * **Module**: [Carpentries Bootcamp: R, Unix Shell, & Git](https://swcarpentry.github.io/shell-novice/)
 * **Format**: In-person, UGA students only
-* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/]([https://uga-carpentries.github.io/2024-03-04-UGA/)
+* **Website**: [https://uga-carpentries.github.io/2023-05-19-skidaway-inperson/](https://uga-carpentries.github.io/2024-03-04-UGA/)
 * **Registration**: OPEN on ATHENA: BINF 7960 (1 credit), Software Carpentries for Scientific Programming (CRN: 68278) 
 BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68034) 
 <!-- Check back soon for upcoming workshop opportunities -->
 
-
-# Past events
 ## Workshop - 2-Day Programming with Python
 * **Dates**: March 6-7 2023
 * **Deadline**: February 20 2023
