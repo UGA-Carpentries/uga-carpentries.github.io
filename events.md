@@ -6,6 +6,18 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+## Workshop - 1-Day Crash-Course on R for Data Analysis
+* **Dates**: November 15, 2024
+* **Deadline**: November 7 2024
+* **Instructors**: Jason Wallace
+* **Module**: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+* **Format**: In-person at Fort Valley State University. (FVSU students have priority.)
+* **Website**: TBD
+* **Registration**: TBD
+<!-- Check back soon for upcoming workshop opportunities -->
+
+
+# Past events
 ## Workshop - Introduction to Git
 * **Dates**: March 26, 2024
 * **Deadline**: March 20, 2024
@@ -40,8 +52,6 @@ BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (
 BINF 8960 (1 credit), Advanced Software Carpentries for Scientific Programming (CRN: 68034) 
 <!-- Check back soon for upcoming workshop opportunities -->
 
-
-# Past events
 ## Workshop - 2-Day Programming with Python
 * **Dates**: March 6-7 2023
 * **Deadline**: February 20 2023
