@@ -6,6 +6,18 @@ show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
+
+## Workshop - 2-Day Core Software Carpentry Workshops
+* **Dates**: May 22, 2024
+* **Deadline**: May 23, 2024
+* **Instructors**: UGA Digilab
+* **Module**: [Unix Shell, Version Control With Git, Programming with Python](https://software-carpentry.org/lessons/)
+* **Format**: In-person at UGA Main Library
+* **Website**: TBD
+* **Registration**: [Google Form](https://forms.gle/rw5pKPqUPnHJ5nBq9)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+
 ## Workshop - 1-Day Crash-Course on R for Data Analysis
 * **Dates**: November 15, 2024
 * **Deadline**: November 7 2024
