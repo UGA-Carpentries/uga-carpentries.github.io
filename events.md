@@ -7,6 +7,19 @@ hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
 
+## Workshop - 1-Day Crash-Course on R for Data Analysis
+* **Dates**: October 23, 2024
+* **Deadline**: October 7, 2024
+* **Instructors**: Jason Wallace
+* **Module**: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+* **Format**: In-person at Fort Valley State University. (FVSU students have priority.)
+* **Website**: TBD
+* **Registration**: TBD
+<!-- Check back soon for upcoming workshop opportunities -->
+
+
+# Past events
+
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: May 22, 2024
 * **Deadline**: May 23, 2024
@@ -17,19 +30,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Registration**: [Google Form](https://forms.gle/rw5pKPqUPnHJ5nBq9)
 <!-- Check back soon for upcoming workshop opportunities -->
 
-
-## Workshop - 1-Day Crash-Course on R for Data Analysis
-* **Dates**: November 15, 2024
-* **Deadline**: November 7 2024
-* **Instructors**: Jason Wallace
-* **Module**: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
-* **Format**: In-person at Fort Valley State University. (FVSU students have priority.)
-* **Website**: TBD
-* **Registration**: TBD
-<!-- Check back soon for upcoming workshop opportunities -->
-
-
-# Past events
 ## Workshop - Introduction to Git
 * **Dates**: March 26, 2024
 * **Deadline**: March 20, 2024
