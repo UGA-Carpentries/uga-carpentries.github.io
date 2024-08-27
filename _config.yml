@@ -24,8 +24,8 @@ github_username:  uga-carpentries
 
 # Build settings
 markdown: kramdown
-#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0 - DOES NOT COMPILE
 plugins:
   - jekyll-feed
   - github-pages
