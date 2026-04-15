@@ -7,6 +7,19 @@ hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
 
+## Workshop - 2-Day Crash-Course on R for Data Analysis
+* **Dates**: May 22-23, 2026
+* **Deadline**: May 17, 2026
+* **Instructors**: Claire Cook
+* **Module**: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+* **Format**: In-person at Skidaway Institute of Oceanography
+* **Website**: [More information](https://uga-carpentries.github.io/2026-05-22-Skidaway/)
+* **Registration**: [Google Form](https://forms.gle/HLKLgZi8AFbFZkVy5)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+
+# Past events
+
 ## Workshop - 1-Day Crash-Course on R for Data Analysis
 * **Dates**: October 23, 2024
 * **Deadline**: October 7, 2024
@@ -15,10 +28,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Format**: In-person at Fort Valley State University. (FVSU students have priority.)
 * **Website**: TBD
 * **Registration**: TBD
-<!-- Check back soon for upcoming workshop opportunities -->
-
-
-# Past events
 
 ## Workshop - 2-Day Core Software Carpentry Workshops
 * **Dates**: May 22, 2024
