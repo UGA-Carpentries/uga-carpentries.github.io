@@ -7,6 +7,18 @@ hero_image: "/assets/images/banner.jpg"
 ---
 # Upcoming events
 
+## Workshop - 1-Day Crash-Course on R for Data Analysis
+* **Dates**: September 12, 2026
+* **Deadline**: September 12, 2026
+* **Instructors**: Emil Joson, Niño Laurel, Ray Parcon
+* **Module**: [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+* **Format**: In-person at UGA Griffin Campus 
+* **Website**: [More information](https://uga-carpentries.github.io/2026-09-12-griffin/)
+* **Registration**: [Google Form](https://forms.gle/j3sF9M1yL8jGh2mP9)
+<!-- Check back soon for upcoming workshop opportunities -->
+
+# Past events
+
 ## Workshop - 2-Day Crash-Course on R for Data Analysis
 * **Dates**: May 22-23, 2026
 * **Deadline**: May 17, 2026
@@ -16,9 +28,6 @@ hero_image: "/assets/images/banner.jpg"
 * **Website**: [More information](https://uga-carpentries.github.io/2026-05-22-Skidaway/)
 * **Registration**: [Google Form](https://forms.gle/HLKLgZi8AFbFZkVy5)
 <!-- Check back soon for upcoming workshop opportunities -->
-
-
-# Past events
 
 ## Workshop - 1-Day Crash-Course on R for Data Analysis
 * **Dates**: October 23, 2024
