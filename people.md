@@ -31,8 +31,11 @@ The following people are the known badged Carpentries instructors at UGA. If you
 |[De Santiago, Alejandro](https://www.linkedin.com/in/alejandrodesantiago/)|Bioinformatics|Graduate Student|
 |[Francis, Michael](https://www.linkedin.com/in/michaelofrancis/)|Bioinformatics|Graduate Student|
 |[Johnsen, Kyle](https://engineering.uga.edu/people/profile/kyle-johnsen-ph.d)|Engineering|Faculty|
+|[Joson, Emil](https://www.linkedin.com/in/josonsea/)|Plant Pathology|Graduate Student|
+|[Laurel, Niño](https://www.linkedin.com/in/ninolaurel/)|Plant Pathology|Graduate Student|
 |[Miller, Mark](https://www.linkedin.com/in/mark-miller-415b0ab7/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Montenegro, Tito](https://www.linkedin.com/in/tito-montenegro/)|Marine Science|Postdoc|
+|[Parcon, Raymond](https://www.linkedin.com/in/rayparcon/)|Plant Pathology|Graduate Student|
 |[Pennetti, Vincent](https://www.linkedin.com/in/vincent-pennetti-77ba0b192/)|Plant Breeding, Genetics, & Genomics|Graduate Student|
 |[Pereira, Tiago](https://www.marsci.uga.edu/directory/people/tiago-jose-pereira)|Marine Scienes, Bioinformatics|Postdoc|
 |[Quinn, Shannon](https://www.cs.uga.edu/directory/people/shannon-quinn)|Computer Science|Faculty|
