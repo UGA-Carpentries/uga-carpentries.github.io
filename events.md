@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 hero_image: "/assets/images/banner.jpg"
 ---
-# Upcoming events
+# Upcoming events 
 
 ## Workshop - 1-Day Crash-Course on R for Data Analysis
 * **Dates**: September 12, 2026
